@@ -7,7 +7,7 @@
 */
 function factorial(n) {
     let result = 1;
-    // TODO このコメントを消して正しく実装してください。
+    const assert = require('assert');
     return result;
 }
 const assert = require('assert');
